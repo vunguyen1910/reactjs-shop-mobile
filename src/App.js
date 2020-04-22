@@ -45,6 +45,7 @@ function App() {
   useEffect(() => {
     getData();
   }, [pageNumber]);
+
   return (
     <div className="App">
       <Main mobiles={dataMobiles} />
