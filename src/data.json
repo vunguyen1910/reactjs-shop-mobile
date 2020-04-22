@@ -1,0 +1,181 @@
+{
+    "page1": [
+        {
+            "id": 1,
+            "name": "Xiaomi redmi note 9s",
+            "image": "/image/xiaomi-redmi-note-9s-4gb-green.jpg",
+            "price": 5990000,
+            "number": 5
+        },
+        {
+            "id": 2,
+            "name": "Samsung galaxy A71",
+            "image": "/image/samsung-galaxy-a71-blue.jpg",
+            "price": 8990000,
+            "number": 5
+        },
+        {
+            "id": 3,
+            "name": "Iphone 11",
+            "image": "/image/iphone-11-red.jpg",
+            "price": 21900000,
+            "number": 7
+        },
+        {
+            "id": 4,
+            "name": "Oppo A91",
+            "image": "/image/oppo-a91.jpg",
+            "price": 6490000,
+            "number": 5
+        },
+        {
+            "id": 5,
+            "name": "Oppo A9",
+            "image": "/image/oppo-a9.jpg",
+            "price": 5990000,
+            "number": 5
+        },
+        {
+            "id": 6,
+            "name": "Vsmart Joy 3",
+            "image": "/image/vsmart-joy-3.jpg",
+            "price": 2690000,
+            "number": 5
+        },
+        {
+            "id": 7,
+            "name": "Realme 6",
+            "image": "/image/realme-6.jpg",
+            "price": 5390000,
+            "number": 5
+        },
+        {
+            "id": 8,
+            "name": "Realme C3i",
+            "image": "/image/realme-c3i.jpg",
+            "price": 2290000,
+            "number": 9
+        },
+        {
+            "id": 9,
+            "name": "Samsung Galaxy Fold",
+            "image": "/image/samsung-galaxy-fold.jpg",
+            "price": 50000000,
+            "number": 9
+        },
+        {
+            "id": 10,
+            "name": "Iphone 11 pro max",
+            "image": "/image/iphone-11-pro-max.jpg",
+            "price": 40990000,
+            "number": 9
+        },
+        {
+            "id": 11,
+            "name": "Iphone Xs max",
+            "image": "/image/iphone-xs-max.jpg",
+            "price": 33990000,
+            "number": 5
+        },
+        {
+            "id": 12,
+            "name": "Samsung Galaxy S20 Ultra",
+            "image": "/image/samsung-galaxy-s20-ultra.jpg",
+            "price": 27990000,
+            "number": 5
+        },
+        {
+            "id": 13,
+            "name": "Oppo find x2",
+            "image": "/image/oppo-find.jpg",
+            "price": 23990000,
+            "number": 7
+        },
+        {
+            "id": 14,
+            "name": "Samsung galaxy S20+",
+            "image": "/image/samsung-galaxy-s20-plus.jpg",
+            "price": 21990000,
+            "number": 5
+        },
+        {
+            "id": 15,
+            "name": "Samsung Galaxy S20",
+            "image": "/image/samsung-galaxy-s20.jpg",
+            "price": 19490000,
+            "number": 5
+        },
+        {
+            "id": 16,
+            "name": "Samsung Galaxy S10+",
+            "image": "/image/samsung-galaxy-s10-plus.jpg",
+            "price": "it",
+            "number": 5
+        },
+        {
+            "id": 17,
+            "name": "Iphone 8 Plus",
+            "image": "/image/iphone-8-plus.jpg",
+            "price":13990000,
+            "number": 5
+        },
+        {
+            "id": 18,
+            "name": "Black Beery Key 2",
+            "image": "/image/blackberry-key2.jpg",
+            "price": 14990000,
+            "number": 9
+        },
+        {
+            "id": 19,
+            "name": "Samsung Galaxy S10 Lite",
+            "image": "/image/samsung-galaxy-s10-lite.jpg",
+            "price": 13990000,
+            "number": 9
+        },
+        {
+            "id": 20,
+            "name": "Oppo Reno2",
+            "image": "/image/oppo-reno-2-pink.jpg",
+            "price": 12490000,
+            "number": 9
+        }
+    ],
+    "page2": [
+        {
+            "id": 21,
+            "name": "Xiaomi note 10 pro",
+            "image": "/image/xiaomi-mi-note-10-pro.jpg",
+            "price": 13490000,
+            "number": 5
+        },
+        {
+            "id": 22,
+            "name": "Samsung galaxy A80",
+            "image": "/image/samsung-galaxy-a80.jpg",
+            "price": 14990000,
+            "number": 5
+        },
+        {
+            "id": 23,
+            "name": "Vivo v17 pro",
+            "image": "/image/vivo-v17-pro-blue.jpg",
+            "price": 8990000,
+            "number": 7
+        },
+        {
+            "id": 24,
+            "name": "Samsung galaxy A70",
+            "image": "/image/samsung-galaxy-a70.jpg",
+            "price": 9290000,
+            "number": 5
+        },
+        {
+            "id": 25,
+            "name": "Realmi 6 pro",
+            "image": "/image/realme-6-pro.jpg",
+            "price": 7390000,
+            "number": 5
+        }
+    ]
+}
